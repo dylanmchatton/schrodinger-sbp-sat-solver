@@ -1,0 +1,6 @@
+numpy>=1.23
+matplotlib>=3.6
+ipython>=8
+pillow>=9
+notebook>=6
+ipykernel>=6
